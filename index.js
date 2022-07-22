@@ -94,7 +94,6 @@ const db = mysql.createConnection(
       password: 'Panda2011!',
       database: 'company_db'
     },
-    console.log(`Connected to the courses_db database.`)
   );
 
 // function that identifies what to do next after user selection. 
