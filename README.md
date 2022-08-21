@@ -1,4 +1,4 @@
-Project Title: Team-Profile-Generator
+Project Title: Employee-Tracker
 
 Project Description: This interactive application takes in the dependencies of inquirer, mysql2 and console.table. This application is for a business owner or someone in HR to have the ability to add department, roles and employees. This also gives them the ability to view all departments, roles, salary, managers and employees. Lastly this application allows the user to change and employees role. 
  
